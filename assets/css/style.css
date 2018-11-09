@@ -1,0 +1,32 @@
+
+body {
+    background-color:beige;
+}
+
+form {
+    margin-top: 150px;
+}
+
+#add-comedian {
+    margin-top: 7px;
+}
+
+#comedian-input {
+    min-width: 270px;
+}
+
+img {
+    margin: 10px
+}
+
+.gifImages {
+    display: inline-block;
+}
+
+.cap {
+    padding-left: 78px;
+}
+
+body {
+    font-family: bangers;
+}
